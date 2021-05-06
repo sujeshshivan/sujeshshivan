@@ -1,5 +1,6 @@
 Hi there 👋
 
+Am Sujesh Shivan P :->
 https://sujeshshivan.in/
 
 - 🔭 I’m currently working on JavaScript and React
@@ -9,4 +10,4 @@ https://sujeshshivan.in/
 - 💬 Ask me about anything which i know
 - 📫 How to reach me: sujeshshivan@gmail.com : +91-7012995640 : +91-9539859987
 - 😄 Pronouns: ......
-- ⚡ Fun fact: 😄😄😄😄😄
+- ⚡ Fun fact: 😄😄😄😄😄 🍻
