@@ -1,7 +1,6 @@
 Hi there 👋
 
 Am Sujesh Shivan P :->
-https://sujeshshivan.in/
 
 - 🔭 I’m currently working on JavaScript and React
 - 🌱 I’m currently learning Many thing which I'am not aware of...
