@@ -5,11 +5,8 @@ Am Sujesh Shivan P :->
 - 🔭 I’m currently working on JavaScript and React
 - 🌱 I’m currently learning Many thing which I'am not aware of...
 - 👯 I’m looking to collaborate on anything.
-- 🤔 I’m looking for help with 🤔 IDK;
 - 💬 Ask me about anything which i know
 - 📫 How to reach me: sujeshshivan@gmail.com : +91-7012995640 : +91-9539859987
-- 😄 Pronouns: ......
-- ⚡ Fun fact: 😄😄😄😄😄 🍻
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sujeshshivan&layout=compact&theme=chartreuse-dark&show_icons=true" alt="sujeshshivan" /> </p>  
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujeshshivan&layout=compact&theme=chartreuse-dark&show_icons=true" />
